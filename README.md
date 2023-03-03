@@ -18,6 +18,6 @@ move further for their higher studies or college.It can predict how much they ha
 
 <h1>Links</h1>
 
-- [**Dataset**](https://www.kellyjadams.com/post/google-capstone-project) - It is the datset which was used for the prediction
-
+- [**Dataset**](https://www.kaggle.com/datasets/kfoster150/avg-cost-of-undergrad-college-by-state) - It is the datset which was used for the prediction
+- [**Python File**](https://github.com/fenil256/AVG-COST-OF-LIVING-ML-PROJECT-/blob/main/project.ipynb) - Python Project File
 
