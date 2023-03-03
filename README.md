@@ -17,5 +17,7 @@ move further for their higher studies or college.It can predict how much they ha
 - Value : The average cost for this particular expense, in USD ($)
 
 <h1>Links</h1>
-Dataset : <a href:"https://www.kaggle.com/datasets/kfoster150/avg-cost-of-undergrad-college-by-state"> Kaggle </a>
+
+- [**Dataset**](https://www.kellyjadams.com/post/google-capstone-project) - It is the datset which was used for the prediction
+
 
